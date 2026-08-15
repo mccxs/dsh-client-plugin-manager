@@ -53,3 +53,11 @@ dsh-client-plugin-manager/
         ├── marketplace-catalog.ts # 生成的目录（约 127 条）
         └── locales.ts            # 中英文案
 ```
+
+## 界面预览
+
+### 分组视图（按功能分组的插件清单）
+![分组视图](docs/grouped-inventory.png)
+
+### 插件市场（仓库插件目录）
+![插件市场](docs/marketplace.png)

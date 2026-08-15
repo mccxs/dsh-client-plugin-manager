@@ -1,0 +1,5 @@
+# dsh-client-plugin-manager bundle patch: adds the grouped inventory and
+# marketplace tabs to the Plugins settings section.
+- insert:
+    - id: plugin-manager
+      name: '@deepseek-ai/dsh-client-plugin-manager'
